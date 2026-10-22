@@ -157,4 +157,5 @@ DEFINE_OPTION(FLB_OUT_TCP                     "Enable TCP output plugin"        
 DEFINE_OPTION(FLB_OUT_UDP                     "Enable UDP output plugin"                     ON)
 DEFINE_OPTION(FLB_OUT_VIVO_EXPORTER           "Enable Vivo exporter output plugin"           ON)
 DEFINE_OPTION(FLB_OUT_WEBSOCKET               "Enable Websocket output plugin"               ON)
+DEFINE_OPTION(FLB_OUT_ZEROBUS_STREAM          "Enable Zerobus streaming output plugin"       OFF)
 DEFINE_OPTION(FLB_OUT_ARVANCLOUD_CLOUDLOGS    "Enable ArvanCloud CloudLogs output plugin"    ON)
